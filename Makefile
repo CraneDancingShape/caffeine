@@ -5,7 +5,7 @@ TARGETNAME_R2=MSG00411
 OUTDIR=.\Release
 MANIFEST=manifest.xml
 
-# CPP=ccache.exe cl.exe
+
 LINK32=link.exe
 MT=mt.exe
 
